@@ -60,7 +60,7 @@ namespace textClassificationApp
                     counterSport++;
                 }
             }
-            // check if the input text whether is a politic or a sport article
+            // check if the input text whether is a Adventure or a sport article
             if (counterAdventure > counterSport)
             {
                 Console.WriteLine("Your text is recognized as an Adventure article");
